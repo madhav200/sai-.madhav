@@ -1,0 +1,5 @@
+s = open("line.txt","r")
+print(s.readline())
+print(s.readline())
+print(s.readline())
+s.close()
